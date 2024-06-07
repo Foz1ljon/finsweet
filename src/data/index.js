@@ -14,19 +14,19 @@ export default menu;
 
 export const url = [
   {
-    img: "/public/icons/uf.svg",
+    img: "/icons/uf.svg",
     url: "https://www.facebook.com/",
   },
   {
-    img: "/public/icons/ut.svg",
+    img: "/icons/ut.svg",
     url: "https://www.twitter.com/",
   },
   {
-    img: "/public/icons/ui.svg",
+    img: "/icons/ui.svg",
     url: "https://www.instagram.com/",
   },
   {
-    img: "/public/icons/ul.svg",
+    img: "/icons/ul.svg",
     url: "https://www.linkedin.com/",
   },
 ];
@@ -34,19 +34,19 @@ export const url = [
 
 export const url2 = [
   {
-    img: "/public/icons/f.svg",
+    img: "/icons/f.svg",
     url: "https://www.facebook.com/",
   },
   {
-    img: "/public/icons/t.svg",
+    img: "/icons/t.svg",
     url: "https://www.twitter.com/",
   },
   {
-    img: "/public/icons/i.svg",
+    img: "/icons/i.svg",
     url: "https://www.instagram.com/",
   },
   {
-    img: "/public/icons/l.svg",
+    img: "/icons/l.svg",
     url: "https://www.linkedin.com/",
   },
 ];
